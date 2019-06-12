@@ -1,7 +1,7 @@
 # myFirstGit
 
 ## Description
-  Week 2 Turorial Exercise
+  Week 2 Turorial Exercise after an edit
   
 ## Install Instructions
   1. Instruction 1
